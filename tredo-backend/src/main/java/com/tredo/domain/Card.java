@@ -1,4 +1,4 @@
-package com.tredo.tredo_backend.domain;
+package com.tredo.domain;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.persistence.*;

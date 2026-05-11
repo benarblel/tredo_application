@@ -1,9 +1,9 @@
-package com.tredo.tredo_backend.service;
+package com.tredo.service;
 
-import com.tredo.tredo_backend.domain.Card;
-import com.tredo.tredo_backend.domain.CardList;
-import com.tredo.tredo_backend.repository.CardRepository;
-import com.tredo.tredo_backend.repository.CardListRepository;
+import com.tredo.domain.Card;
+import com.tredo.domain.CardList;
+import com.tredo.repository.CardRepository;
+import com.tredo.repository.CardListRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import java.util.List;

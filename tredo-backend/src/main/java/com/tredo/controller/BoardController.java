@@ -1,7 +1,7 @@
-package com.tredo.tredo_backend.controller;
+package com.tredo.controller;
 
-import com.tredo.tredo_backend.domain.Board;
-import com.tredo.tredo_backend.service.BoardService;
+import com.tredo.domain.Board;
+import com.tredo.service.BoardService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;

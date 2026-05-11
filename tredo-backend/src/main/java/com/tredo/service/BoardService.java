@@ -1,7 +1,7 @@
-package com.tredo.tredo_backend.service;
+package com.tredo.service;
 
-import com.tredo.tredo_backend.domain.Board;
-import com.tredo.tredo_backend.repository.BoardRepository;
+import com.tredo.domain.Board;
+import com.tredo.repository.BoardRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import java.util.List;

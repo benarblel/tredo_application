@@ -1,6 +1,6 @@
-package com.tredo.tredo_backend.repository;
+package com.tredo.repository;
 
-import com.tredo.tredo_backend.domain.Card;
+import com.tredo.domain.Card;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

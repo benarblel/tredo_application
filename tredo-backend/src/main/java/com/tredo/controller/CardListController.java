@@ -1,7 +1,7 @@
-package com.tredo.tredo_backend.controller;
+package com.tredo.controller;
 
-import com.tredo.tredo_backend.domain.CardList;
-import com.tredo.tredo_backend.service.CardListService;
+import com.tredo.domain.CardList;
+import com.tredo.service.CardListService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;

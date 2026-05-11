@@ -1,4 +1,4 @@
-package com.tredo.tredo_backend;
+package com.tredo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
