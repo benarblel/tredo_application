@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: tredo-backend
-
-  profiles:
-    active: local
